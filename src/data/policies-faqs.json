@@ -1,0 +1,369 @@
+{
+  "policies": {
+    "referral_and_commission": {
+      "title": "Referral & Commission Policy",
+      "description": "Guidelines for referring new members and earning commissions",
+      "rules": [
+        "Members earn commissions when their referred users make purchases or orders in the system",
+        "Referrals must be accepted and verified before commissions are calculated",
+        "Direct referral commission: 10% of the referred user's first purchase",
+        "Indirect referral commission: 5% from 2nd level, 3% from 3rd level, 2% from 4th level and below",
+        "Commissions are calculated and credited within 24-48 hours after order confirmation",
+        "Minimum withdrawal amount is $50, processed within 5-7 business days",
+        "Self-referrals are strictly prohibited and will result in account suspension"
+      ]
+    },
+    "ranking_system": {
+      "title": "Monthly Ranking System",
+      "description": "How members advance through ranks and maintain their status",
+      "rules": [
+        "Rankings are evaluated monthly on the 1st day of each month",
+        "Members must maintain their rank requirements each month or will be downgraded",
+        "Rank advancement is automatic when requirements are met",
+        "Inactive members (no activity for 60 days) will be reset to Unranked status",
+        "Active referrals are defined as users who made at least one purchase in the last 30 days",
+        "Team sales include all purchases made by direct and indirect referrals",
+        "Rank bonuses are paid on the 5th day of each month for the previous month's performance"
+      ]
+    },
+    "product_orders": {
+      "title": "Product Order Policy",
+      "description": "Rules and guidelines for ordering products",
+      "rules": [
+        "All orders must be paid in full before processing",
+        "Accepted payment methods: Credit/Debit Card, PayPal, Bank Transfer, Cryptocurrency",
+        "Orders are processed within 2-3 business days after payment confirmation",
+        "Shipping time: 5-10 business days (domestic), 10-20 business days (international)",
+        "Order cancellations allowed within 24 hours of placement with full refund",
+        "Members receive a 15% discount on all personal product purchases",
+        "Bulk orders (10+ items) receive additional 5% discount"
+      ]
+    },
+    "account_management": {
+      "title": "Account Management Policy",
+      "description": "Rules for managing your account and maintaining good standing",
+      "rules": [
+        "One account per person - duplicate accounts will be permanently banned",
+        "Account information must be accurate and up-to-date",
+        "Password must be changed every 90 days for security",
+        "Sharing account credentials is prohibited",
+        "Members are responsible for all activities under their account",
+        "Fraudulent activities will result in immediate account termination and legal action",
+        "Inactive accounts (no login for 180 days) may be archived"
+      ]
+    },
+    "compliance_and_ethics": {
+      "title": "Compliance & Ethics Policy",
+      "description": "Ethical guidelines and legal compliance requirements",
+      "rules": [
+        "All marketing claims must be truthful and not misleading",
+        "Income claims must include disclaimer: 'Results not typical, individual results may vary'",
+        "Spamming on social media or email is strictly prohibited",
+        "Members must comply with local laws and regulations regarding MLM businesses",
+        "Pyramid scheme activities are forbidden - actual product sales must occur",
+        "Harassment of potential recruits will result in account suspension",
+        "All business practices must align with FTC guidelines"
+      ]
+    },
+    "refund_and_returns": {
+      "title": "Refund & Returns Policy",
+      "description": "How to return products and request refunds",
+      "rules": [
+        "30-day money-back guarantee on all products (shipping not included)",
+        "Products must be in original, unused condition with all packaging",
+        "Return shipping costs are the responsibility of the customer unless product is defective",
+        "Refunds processed within 7-10 business days after receiving returned items",
+        "Digital products and personalized items are non-refundable",
+        "Refund requests must be submitted through the customer portal with order number",
+        "Commissions earned from returned products will be deducted from the referrer's account"
+      ]
+    }
+  },
+  "faqs": [
+    {
+      "category": "Getting Started",
+      "questions": [
+        {
+          "question": "How do I join the MLM system?",
+          "answer": "To join, you need a referral link from an existing member. Click the link, fill out the registration form with your details, and verify your email address. Once verified, you'll have immediate access to your dashboard and can start referring others or making purchases."
+        },
+        {
+          "question": "Is there a fee to join?",
+          "answer": "Basic membership is free. However, to unlock full earning potential and qualify for rank bonuses, we recommend making an initial product purchase of at least $100. This also gives you firsthand experience with our products, making it easier to refer others."
+        },
+        {
+          "question": "What happens if I don't have a referral link?",
+          "answer": "You can request a referral link by contacting our support team at support@mlmsystem.com. We'll connect you with a mentor who can guide you through the onboarding process and help you get started."
+        }
+      ]
+    },
+    {
+      "category": "Referrals & Commissions",
+      "questions": [
+        {
+          "question": "How do I refer someone?",
+          "answer": "Log into your dashboard and navigate to the 'Referrals' section. You'll find your unique referral link and QR code. Share this link via social media, email, or messaging apps. When someone signs up using your link and makes a purchase, you'll earn a commission."
+        },
+        {
+          "question": "When do I receive my commission?",
+          "answer": "Commissions are calculated within 24-48 hours after your referral's order is confirmed. The earnings appear in your dashboard under 'Pending Balance.' Once you reach the minimum withdrawal amount of $50, you can request a payout, which is processed within 5-7 business days."
+        },
+        {
+          "question": "How many levels deep can I earn commissions?",
+          "answer": "You can earn commissions up to 4 levels deep: Level 1 (direct referrals) = 10%, Level 2 = 5%, Level 3 = 3%, Level 4+ = 2%. This creates a passive income stream as your team grows and makes purchases."
+        },
+        {
+          "question": "What if my referral returns a product?",
+          "answer": "If a product is returned and refunded, any commissions earned from that sale will be deducted from your account balance. This is standard practice to prevent commission abuse. Make sure to promote quality products and set proper expectations with your referrals."
+        }
+      ]
+    },
+    {
+      "category": "Ranking System",
+      "questions": [
+        {
+          "question": "How do I rank up?",
+          "answer": "Rankings are based on two factors: (1) Number of active referrals and (2) Total team sales volume in the last 30 days. To rank up from Unranked to Starter, you need at least 1 active referral and $500 in personal sales. Each higher rank has increasing requirements shown in the ranking table."
+        },
+        {
+          "question": "What happens if I don't maintain my rank requirements?",
+          "answer": "Rankings are evaluated monthly. If you don't meet the requirements for your current rank, you'll be downgraded to the appropriate lower rank. For example, if you're Gold but only have 15 active referrals (instead of the required 20), you'll drop to Silver. Your rank bonus will adjust accordingly."
+        },
+        {
+          "question": "When do I receive my rank bonus?",
+          "answer": "Rank bonuses are calculated at the end of each month and paid on the 5th day of the following month. For example, if you maintain Diamond rank for the entire month of January, you'll receive your $5,000 bonus plus team commissions on February 5th."
+        },
+        {
+          "question": "What is considered an 'active referral'?",
+          "answer": "An active referral is someone in your network who has made at least one purchase in the last 30 days. Inactive referrals don't count toward your rank requirements, so it's important to keep your team engaged and making regular purchases."
+        },
+        {
+          "question": "Can I lose my Diamond rank?",
+          "answer": "Yes, if you don't maintain the Diamond requirements (50+ active referrals and $10,000+ team sales) for a given month, you'll be downgraded. However, you can rank back up as soon as you meet the requirements again. Many top earners focus on consistent team training and engagement to maintain their status."
+        }
+      ]
+    },
+    {
+      "category": "Products & Orders",
+      "questions": [
+        {
+          "question": "What products are available?",
+          "answer": "We offer a wide range of health, wellness, and lifestyle products including dietary supplements, skincare items, fitness equipment, and educational materials. All products are available in your member dashboard under the 'Shop' section with detailed descriptions and member pricing."
+        },
+        {
+          "question": "Do I get a discount on products?",
+          "answer": "Yes! All members receive a 15% discount on personal purchases. Additionally, bulk orders of 10 or more items receive an extra 5% discount, bringing your total savings to 20%. This makes it easy to try products yourself and stock up for demonstrations."
+        },
+        {
+          "question": "How long does shipping take?",
+          "answer": "Domestic orders typically arrive in 5-10 business days. International orders take 10-20 business days depending on your location. You'll receive a tracking number via email once your order ships. Expedited shipping options are available at checkout for an additional fee."
+        },
+        {
+          "question": "Can I cancel my order?",
+          "answer": "Orders can be cancelled within 24 hours of placement for a full refund. After 24 hours, if the order hasn't shipped yet, you may still cancel but a 10% processing fee applies. Once shipped, you'll need to follow our return policy instead."
+        }
+      ]
+    },
+    {
+      "category": "Account & Technical",
+      "questions": [
+        {
+          "question": "I forgot my password. How do I reset it?",
+          "answer": "Click the 'Forgot Password' link on the login page. Enter your registered email address, and we'll send you a password reset link. The link expires in 1 hour for security reasons. If you don't receive the email, check your spam folder or contact support."
+        },
+        {
+          "question": "How do I update my payment information?",
+          "answer": "Log into your dashboard and go to 'Account Settings' > 'Payment Methods'. You can add, edit, or remove payment methods here. For security, we require you to verify your identity (via SMS or email code) before making changes to payment information."
+        },
+        {
+          "question": "Can I have multiple accounts?",
+          "answer": "No, our policy strictly prohibits duplicate accounts. Each person is allowed only one account. If we detect multiple accounts under the same name, address, or IP address, all accounts will be permanently banned and commissions forfeited. This ensures fair competition for all members."
+        },
+        {
+          "question": "Is my personal information secure?",
+          "answer": "Absolutely. We use bank-level 256-bit SSL encryption to protect all data. Your payment information is processed through PCI-compliant payment gateways and never stored on our servers. We never sell or share your personal information with third parties without your explicit consent."
+        }
+      ]
+    },
+    {
+      "category": "Payments & Withdrawals",
+      "questions": [
+        {
+          "question": "What is the minimum withdrawal amount?",
+          "answer": "The minimum withdrawal is $50. This helps reduce processing fees and ensures efficient payment processing. Once you reach $50 in available balance, you can request a payout through your dashboard. There's no maximum withdrawal limit."
+        },
+        {
+          "question": "How do I withdraw my earnings?",
+          "answer": "Go to 'Earnings' > 'Request Withdrawal' in your dashboard. Choose your preferred payment method (PayPal, Bank Transfer, or Cryptocurrency), enter the amount, and submit. Payments are processed within 5-7 business days. You'll receive a confirmation email once payment is sent."
+        },
+        {
+          "question": "Are there any withdrawal fees?",
+          "answer": "PayPal withdrawals: $2.50 per transaction. Bank transfers: $5 per transaction. Cryptocurrency: Network fees vary (typically $1-3). These fees cover our processing costs. We recommend making larger, less frequent withdrawals to minimize fee impact."
+        },
+        {
+          "question": "What payment methods do you accept for purchases?",
+          "answer": "We accept Visa, Mastercard, American Express, Discover, PayPal, direct bank transfers, and select cryptocurrencies (Bitcoin, Ethereum, USDT). All payments are processed securely through our encrypted payment gateway."
+        }
+      ]
+    },
+    {
+      "category": "Compliance & Legal",
+      "questions": [
+        {
+          "question": "Is this a pyramid scheme?",
+          "answer": "No. Our business model is a legitimate multi-level marketing (MLM) structure where members earn commissions from actual product sales, not just from recruiting. The FTC defines pyramid schemes as businesses that primarily make money from recruitment rather than product sales. We have real products with real value, and most of our revenue comes from retail sales."
+        },
+        {
+          "question": "Do I need to recruit to make money?",
+          "answer": "No. You can earn money through direct product sales without recruiting anyone. However, building a referral network significantly increases your earning potential through team commissions and rank bonuses. Many successful members focus on both retail sales and team building."
+        },
+        {
+          "question": "Are there any legal restrictions on who can join?",
+          "answer": "Members must be at least 18 years old and reside in a country where MLM businesses are legal. Some countries have restrictions or require special licenses. It's your responsibility to ensure MLM participation is legal in your jurisdiction. We're currently unavailable in: China, Saudi Arabia, and a few other restricted regions."
+        },
+        {
+          "question": "Can I make income claims when recruiting?",
+          "answer": "You may share your personal earnings, but you must include the disclaimer: 'Results not typical. Individual results may vary.' Never guarantee earnings or imply that success is easy or automatic. Misleading income claims violate our ethics policy and may result in account suspension. Always be honest and transparent with potential recruits."
+        }
+      ]
+    }
+  ],
+  "rank_structure": [
+    {
+      "rank": "Diamond",
+      "level": 7,
+      "emoji": "💎",
+      "requirements": {
+        "active_referrals": 50,
+        "team_sales_monthly": 10000
+      },
+      "benefits": {
+        "monthly_bonus": 5000,
+        "team_commission_percentage": 15,
+        "perks": [
+          "Exclusive Diamond Club access",
+          "Annual all-expenses-paid retreat",
+          "Priority customer support",
+          "Featured on company website",
+          "Personal business coach"
+        ]
+      }
+    },
+    {
+      "rank": "Platinum",
+      "level": 6,
+      "emoji": "💍",
+      "requirements": {
+        "active_referrals": 30,
+        "team_sales_monthly": 7000
+      },
+      "benefits": {
+        "monthly_bonus": 3000,
+        "team_commission_percentage": 12,
+        "perks": [
+          "Platinum member badge",
+          "Quarterly training workshops",
+          "Marketing materials package",
+          "Direct line to regional manager"
+        ]
+      }
+    },
+    {
+      "rank": "Gold",
+      "level": 5,
+      "emoji": "🥇",
+      "requirements": {
+        "active_referrals": 20,
+        "team_sales_monthly": 5000
+      },
+      "benefits": {
+        "monthly_bonus": 2000,
+        "team_commission_percentage": 10,
+        "perks": [
+          "Gold member recognition",
+          "Monthly group coaching calls",
+          "Custom business cards",
+          "Social media promotion"
+        ]
+      }
+    },
+    {
+      "rank": "Silver",
+      "level": 4,
+      "emoji": "🥈",
+      "requirements": {
+        "active_referrals": 10,
+        "team_sales_monthly": 3000
+      },
+      "benefits": {
+        "monthly_bonus": 1000,
+        "team_commission_percentage": 8,
+        "perks": [
+          "Silver member badge",
+          "Access to advanced training materials",
+          "Team building resources"
+        ]
+      }
+    },
+    {
+      "rank": "Bronze",
+      "level": 3,
+      "emoji": "🥉",
+      "requirements": {
+        "active_referrals": 5,
+        "team_sales_monthly": 1500
+      },
+      "benefits": {
+        "monthly_bonus": 500,
+        "team_commission_percentage": 5,
+        "perks": [
+          "Bronze member badge",
+          "Basic training access",
+          "Email marketing templates"
+        ]
+      }
+    },
+    {
+      "rank": "Starter",
+      "level": 2,
+      "emoji": "⭐",
+      "requirements": {
+        "active_referrals": 1,
+        "personal_sales_monthly": 500
+      },
+      "benefits": {
+        "monthly_bonus": 100,
+        "commission_percentage": 3,
+        "perks": [
+          "Welcome starter kit",
+          "Beginner training videos",
+          "Referral link and materials"
+        ]
+      }
+    },
+    {
+      "rank": "Unranked",
+      "level": 1,
+      "emoji": "📋",
+      "requirements": {
+        "active_referrals": 0,
+        "sales_monthly": 0
+      },
+      "benefits": {
+        "monthly_bonus": 0,
+        "commission_percentage": 0,
+        "perks": [
+          "Access to member dashboard",
+          "15% member discount on products",
+          "Ability to refer and earn direct commissions"
+        ]
+      }
+    }
+  ],
+  "contact_support": {
+    "email": "support@mlmsystem.com",
+    "phone": "+1-800-MLM-HELP",
+    "live_chat": "Available 9 AM - 5 PM EST, Monday-Friday",
+    "help_center": "https://help.mlmsystem.com"
+  }
+}
