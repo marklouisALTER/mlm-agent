@@ -1,14 +1,12 @@
-import { tool } from "@openai/agents"
-import z from "zod";
+import { tool } from "@openai/agents" 
 import policiesData from "../data/policies-faqs.json";
+import { policiesFaqsToolSchema } from "../common/schema/policies-faqs";
 
 export const policiesFaqsTool = tool({
     name: "Policies and FAQs Tool",
     description: `A tool that provides answers to frequently asked questions about the MLM system policies.
     It covers referrals, commissions, ranking system, products, payments, and compliance.`,
-    parameters: z.object({
-        question: z.string().describe("The question about company policies or FAQs that needs to be answered."),
-    }),
+    parameters: policiesFaqsToolSchema,
     execute: async ({ question }: { question: string }) => {
         const allFaqs = policiesData.faqs.flatMap(cat => cat.questions);
         

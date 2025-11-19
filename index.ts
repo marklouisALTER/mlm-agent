@@ -32,12 +32,12 @@
 // run();
 
 import express, { Request, Response } from "express";
-const app = express();
-import dotenv from "dotenv"; 
+const app = express(); 
 import { Runner } from "@openai/agents";
 import { agent } from "./src/lib/agent";
-
-dotenv.config({ quiet: true });
+import { ErrorConstant } from "./src/common/constant/error";
+import config from "./src/config/config";
+ 
 
 app.use(express.json());
 
@@ -57,7 +57,7 @@ app.post('/api/v1/agent', async (req: Request, res: Response) => {
         const { message } = req.body;
         const runner = new Runner();
         if(!message){
-            return res.status(400).json({ error: 'Message is required' });
+            return res.status(400).json({ error: ErrorConstant.BAD_REQUEST_ERROR });
         }
 
         const response = await runner.run(agent, message);
@@ -65,10 +65,10 @@ app.post('/api/v1/agent', async (req: Request, res: Response) => {
         res.status(200).json({ response: response.finalOutput });
 
     }catch(error){
-        res.status(500).json({ error: 'Internal Server Error' });
+        res.status(500).json({ error: ErrorConstant.INTERNAL_SERVER_ERROR });
     }
 })
 
-app.listen(process.env.PORT || 3002, () => {
-    console.log(`Server is running on port ${process.env.PORT || 3002}`);
+app.listen(config.port || 3002, () => {
+    console.log(`Server is running on port ${config.port || 3002}`);
 });

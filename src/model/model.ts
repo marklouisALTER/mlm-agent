@@ -1,1 +1,3 @@
-export const model = 'gpt-3.5-turbo';
+import config from "../config/config";
+
+export const model = config.model;
